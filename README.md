@@ -368,9 +368,9 @@ after adding or updating dependencies.
 * [x] Deal of the Day
 * [x] Countdown timer
 * [x] Dynamic products
-* [ ] Advanced search
-* [ ] Product filtering
-* [ ] Product sorting
+* [x] Advanced search
+* [x] Product filtering
+* [x] Product sorting
 
 ### Products
 
@@ -379,39 +379,39 @@ after adding or updating dependencies.
 * [x] Product images
 * [x] Product pricing
 * [x] Discount display
-* [ ] Product details
-* [ ] Product reviews
+* [x] Product details
+* [x] Product reviews
 * [ ] Related products
 
 ### Wishlist
 
 * [x] Wishlist UI
 * [x] Add/remove products
-* [ ] Cloud synchronization
+* [x] Cloud synchronization
 
 ### Cart & Checkout
 
-* [ ] Shopping cart
-* [ ] Quantity management
-* [ ] Order summary
-* [ ] Checkout
-* [ ] Delivery information
+* [x] Shopping cart
+* [x] Quantity management
+* [x] Order summary
+* [x] Checkout
+* [x] Delivery information
 * [ ] Payment integration
-* [ ] Order history
+* [x] Order history
 
 ### Payments
 
 * [ ] Paystack integration
-* [ ] Payment confirmation
-* [ ] Transaction history
+* [x] Payment confirmation
+* [x] Transaction history
 
 ### Profile
 
 * [x] Profile UI
-* [ ] Edit profile
+* [x] Edit profile
 * [ ] Profile image upload
-* [ ] Order history
-* [ ] Account settings
+* [x] Order history
+* [x] Account settings
 
 ---
 
@@ -541,7 +541,7 @@ This project is currently intended for **learning and portfolio purposes**.
 
 ## 👨‍💻 Author
 
-**Samuel**
+**Samuel Ucheobi Uchechukwu**
 
 Built with ❤️ using Flutter and Firebase.
 
