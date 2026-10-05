@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "19974383531",
+    "project_id": "gizmohub-40b3b",
+    "storage_bucket": "gizmohub-40b3b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19974383531:android:a7b6e48a3aeaabc10054ee",
+        "android_client_info": {
+          "package_name": "com.samtechcomputers.gizmohub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyYLR3qnOg5t8MoUdwx4pcQmvL_lfqgFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

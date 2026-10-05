@@ -1,0 +1,58 @@
+name: GizmoHub
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.12.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  flutter_svg:
+  flutter_bloc:
+  hydrated_bloc:
+  path_provider:
+  lottie: ^3.1.2
+  firebase_core: ^4.15.0
+  firebase_auth: ^6.7.0
+  get_it:
+  speech_to_text: ^7.5.0
+  cloud_firestore:
+  firebase_storage:
+  image_picker:
+  shared_preferences:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - lib/assets/fonts/
+    - lib/assets/images/
+    - lib/assets/vectors/
+    - lib/assets/lottie/
+
+  fonts:
+    - family: Montserrat
+      fonts:
+        - asset: lib/assets/fonts/Montserrat-Black.ttf
+          weight: 900
+        - asset: lib/assets/fonts/Montserrat-Bold.ttf
+          weight: 700
+        - asset: lib/assets/fonts/Montserrat-SemiBold.ttf
+          weight: 600
+        - asset: lib/assets/fonts/Montserrat-Medium.ttf
+          weight: 500
+        - asset: lib/assets/fonts/Montserrat-Regular.ttf
+          weight: 400
+        - asset: lib/assets/fonts/Montserrat-Light.ttf
+          weight: 300
