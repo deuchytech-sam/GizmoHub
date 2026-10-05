@@ -9,9 +9,6 @@ A production-style e-commerce application focused on **clean UI, scalable archit
 <br>
 
 
-
-\
-
 <br>
 
 **🚧 Currently in development**
